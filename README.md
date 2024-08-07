@@ -9,33 +9,33 @@ This project utilizes the UNWS-np-15 dataset, extracted from a GitHub repository
 
 # Key Features
 
-# Dataset Utilization:
+Dataset Utilization:
 
-Utilizes the latest UNWS-np-15 dataset for accurate analysis and identification of DDoS attacks.
+- Utilizes the latest UNWS-np-15 dataset for accurate analysis and identification of DDoS attacks.
 
-# Machine Learning Models:
+Machine Learning Models:
 
-Implements Random Forest and XGBoost algorithms for effective classification and prediction of DDoS attacks.
+- Implements Random Forest and XGBoost algorithms for effective classification and prediction of DDoS attacks.
 
-Generates a confusion matrix to evaluate model performance.
+- Generates a confusion matrix to evaluate model performance.
 
-# Model Optimization:
+Model Optimization:
 
-Includes steps for kernel scaling and hyperparameter tuning to enhance model efficiency.
+- Includes steps for kernel scaling and hyperparameter tuning to enhance model efficiency.
 
-Provides comparative analysis of model performance before and after optimization.
+- Provides comparative analysis of model performance before and after optimization.
 
-# Performance Metrics:
+Performance Metrics:
 
-Achieves an accuracy of approximately 85% using the Random Forest algorithm.
+- Achieves an accuracy of approximately 85% using the Random Forest algorithm.
 
-Achieves an accuracy of approximately 79% using the XGBoost algorithm.
+- Achieves an accuracy of approximately 79% using the XGBoost algorithm.
 
-# Efficiency:
+Efficiency:
 
-Offers a user-friendly, faster alternative to deep learning models.
+- Offers a user-friendly, faster alternative to deep learning models.
 
-Produces better results with a shorter training time.
+- Produces better results with a shorter training time.
 
 
 # Project Structure
